@@ -42,14 +42,14 @@ The "plainwhite" key in \_config.yml is used to customize the theme data.
 
 ```yaml
 plainwhite:
-  name: SWZ
-  tagline: Student. 
+  name: Adam Denisov
+  tagline: Developer. Designer
   date_format: "%b %-d, %Y"
 
   social_links:
-    twitter: swz
-    github: swz
-    linkedIn: in/swz # format: locale/username
+    twitter: samarsault
+    github: samarsault
+    linkedIn: in/samarsault # format: locale/username
 ```
 
 **Updating Placeholder Image**
@@ -65,8 +65,8 @@ To use a different image for dark mode, e.g. with different colors that work bet
 
 ```yaml
 plainwhite:
-  portfolio_image:      "assets/swz.jpg"
-  portfolio_image_dark: "assets/swz.jpg"
+  portfolio_image:      "assets/portfolio.png"
+  portfolio_image_dark: "assets/portfolio_dark.png"
 ```
 
 **Comments (Disqus)**
