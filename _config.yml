@@ -15,7 +15,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: byswz
-  tagline: Student
+  tagline: Always Student
   date_format: "%b %-d, %Y"    
   disqus_shortname: byswz-github-io  
   sitemap: true # set to true to generate sitemap.xml content
@@ -49,11 +49,11 @@ plainwhite:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-  navigation:
-    - title: My Work
-      url: "/my"
-    - title: Resume
-      url: "/resume"
+  #navigation:
+  #  - title: My Work
+  #    url: "/my-work"
+  #  - title: Resume
+  #    url: "/resume"
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
