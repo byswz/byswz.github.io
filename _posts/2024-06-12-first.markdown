@@ -11,6 +11,7 @@ My First Writing
 <alert>My First Blog</alert>
 ```
 
-My Blog : [swz' Naver Blog][swz-naver].
+> **My Blog : *[swz' Naver Blog][swz-naver].***
+
 
 [swz-naver]: https://blog.naver.com/byswz
