@@ -16,7 +16,7 @@ plainwhite:
   tagline: Student
   date_format: "%b %-d, %Y"
   disqus_shortname: byswz-github-io  
-  baseurl: ""
+  baseurl: "/my"
   url: "https://byswz.github.io"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
