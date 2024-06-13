@@ -14,10 +14,10 @@ sass:
 plainwhite:
   name: byswz
   tagline: Student
-  date_format: "%b %-d, %Y"
-  disqus_shortname: byswz-github-io  
-  baseurl: "/my"
+  date_format: "%b %-d, %Y"  
+  baseurl: ""
   url: "https://byswz.github.io"
+  disqus_shortname: byswz-github-io  
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
