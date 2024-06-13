@@ -18,4 +18,4 @@ My First Blog Writing
 
 My Naver Blog [swz naver][swz-naver].
 
-[swz-naver]: https://blgo.naver.com/byswz
+[swz-naver]: https://blog.naver.com/byswz
