@@ -10,6 +10,6 @@ My First Blog Writing
 <alert>My First Blog Writing</alert>
 ```
 
-My Naver Blog [swz naver][swz-naver].
+My Blog : [swz' Naver Blog][swz-naver].
 
 [swz-naver]: https://blog.naver.com/byswz
