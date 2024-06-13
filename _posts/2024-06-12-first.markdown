@@ -2,10 +2,11 @@
 layout: post
 title:  "My First Blog Writing"
 date:   2024-06-12 09:05:01 +0530
-categories: Javascript NodeJS 
+categories: My
 ---
 
 My First Blog Writing
+---------------------
 
 ```javascript
 <alert>My First Blog Writing</alert>
