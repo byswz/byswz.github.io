@@ -29,19 +29,19 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: swz
-    github:  swz
-    linkedIn: in/swz
+    #twitter: swz
+    github: byswz.github.io
+    #linkedIn: in/swz
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
+    instagram: swzooc
     #pinterest: jekyll
-    #youtube: jekyll
+    #youtube: byswz
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: swz@kakao.com
 
     # Mastodon instances
     # mastodon:
